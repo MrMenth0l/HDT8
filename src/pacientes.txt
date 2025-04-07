@@ -1,0 +1,13 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Valeria Jiménez, dolor de cabeza, D
+Juan Carlos Morales, neumonía grave, B
+Beatriz Silva, ataque de asma, A
+Roberto Díaz, fractura de brazo, C
+Patricia Ortega, dolor abdominal intenso, D
+Enrique Sánchez, golpe en la cabeza, B
+Diana Fernández, quemadura de tercer grado, A
+Ricardo Torres, infección urinaria, C
+Mariana Castro, migraña crónica, D
